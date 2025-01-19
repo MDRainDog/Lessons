@@ -1,2 +1,2 @@
 x = 'Hello, Dude!'
-print x
+print (x)
